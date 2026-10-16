@@ -26,9 +26,10 @@
 - Public repository: https://github.com/mkautsarpb/rapih-in (created 2026-10-16).
 - Issue tracker and support channel: https://github.com/mkautsarpb/rapih-in/issues.
 - Star History chart: embedded in both READMEs (2026-10-16).
+- CI: `.github/workflows/ci.yml` runs `tools/validate.py`, a fixture drift check, and the tests on Linux, Windows, and macOS with Python 3.8 and latest 3.x, on every push to `main` and every pull request. Badge in both READMEs.
 
 Not configured yet:
-- Release tags and CI badges.
+- Release tags.
 
 ## Enabling the Star History chart
 

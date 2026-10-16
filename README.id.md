@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-038982" alt="Lisensi: MIT"></a>
+  <a href="https://github.com/mkautsarpb/rapih-in/actions/workflows/ci.yml"><img src="https://github.com/mkautsarpb/rapih-in/actions/workflows/ci.yml/badge.svg" alt="Status CI"></a>
 </p>
 
 rapih-in adalah Agent Skill untuk coding agent (Codex, Claude Code, Google Antigravity, Cursor Agent, Kimi Code CLI). Skill ini mengaudit struktur folder dan tanggung jawab tiap file, mengusulkan perubahan terkecil yang benar-benar berguna, menerapkannya per batch dengan checkpoint tanpa mengubah perilaku aplikasi, lalu membantu agent menaruh file baru di tempat yang semestinya.

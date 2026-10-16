@@ -25,14 +25,14 @@
 
 - Public repository: https://github.com/mkautsarpb/rapih-in (created 2026-10-16).
 - Issue tracker and support channel: https://github.com/mkautsarpb/rapih-in/issues.
+- Star History chart: embedded in both READMEs (2026-10-16).
 
 Not configured yet:
-- Star History chart.
 - Release tags and CI badges.
 
 ## Enabling the Star History chart
 
-Do this only after the repository `mkautsarpb/rapih-in` has stars, so the chart renders instead of an empty image.
+Already done for `mkautsarpb/rapih-in`. To redo it (for example after a rename):
 
 1. Open https://www.star-history.com, enter `OWNER/REPO`, keep the "Date" view.
 2. In "Show real-time chart on your README.md", choose **GitHub README.md** and copy the generated snippet. It uses a `<picture>` element with a dark and a light `<source>` and an `<img>` fallback, served from `api.star-history.com`, wrapped in a link to the chart page. At the time of writing the generated snippet has this shape:

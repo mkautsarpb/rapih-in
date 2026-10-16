@@ -276,7 +276,13 @@ Laporkan bug dan ajukan pertanyaan di [issue tracker](https://github.com/mkautsa
 
 ## Star History
 
-Grafik Star History akan tampil di sini setelah repository memiliki star untuk digrafikkan. Langkah penyiapan untuk maintainer: [docs/maintainers.md](docs/maintainers.md).
+<a href="https://www.star-history.com/?repos=mkautsarpb%2Frapih-in&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mkautsarpb/rapih-in&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mkautsarpb/rapih-in&type=date&legend=top-left" />
+   <img alt="Star History chart for mkautsarpb/rapih-in" src="https://api.star-history.com/chart?repos=mkautsarpb/rapih-in&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## Lisensi
 

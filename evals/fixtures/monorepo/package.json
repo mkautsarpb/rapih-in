@@ -1,0 +1,8 @@
+{
+  "name": "acme",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "test": "node --test \"apps/**/*.test.js\" \"packages/**/*.test.js\""
+  }
+}

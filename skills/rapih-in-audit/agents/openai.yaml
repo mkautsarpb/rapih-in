@@ -1,0 +1,6 @@
+interface:
+  display_name: "rapih-in audit"
+  short_description: "Shortcut for rapih-in audit"
+  brand_color: "#038982"
+policy:
+  allow_implicit_invocation: false

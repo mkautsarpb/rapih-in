@@ -1,0 +1,7 @@
+interface:
+  display_name: "rapih-in"
+  short_description: "Tidy project structure and keep file placement consistent"
+  brand_color: "#038982"
+  default_prompt: "Use $rapih-in audit to review this project's structure."
+policy:
+  allow_implicit_invocation: true

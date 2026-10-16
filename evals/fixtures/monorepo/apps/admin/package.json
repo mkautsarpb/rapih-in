@@ -1,0 +1,1 @@
+{ "name": "@acme/admin", "private": true, "type": "module", "dependencies": { "@acme/shared": "1.0.0" } }

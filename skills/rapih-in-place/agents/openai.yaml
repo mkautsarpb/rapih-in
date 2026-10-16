@@ -1,0 +1,6 @@
+interface:
+  display_name: "rapih-in place"
+  short_description: "Shortcut for rapih-in place"
+  brand_color: "#038982"
+policy:
+  allow_implicit_invocation: false

@@ -18,7 +18,7 @@ jobs:
     name: Validate package and docs
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: actions/setup-python@v6
         with:
           python-version: "3.x"
@@ -39,7 +39,7 @@ jobs:
         # 3.8 is the minimum the README promises for the state helper.
         python: ["3.8", "3.x"]
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
       - uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python }}
